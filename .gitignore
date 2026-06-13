@@ -1,0 +1,11 @@
+# Dependencias
+node_modules/
+.env
+.DS_Store
+dist/
+build/
+*.log
+
+# Archivos de sistema
+Thumbs.db
+desktop.ini
